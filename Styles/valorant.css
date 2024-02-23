@@ -1,5 +1,6 @@
 main{
-    padding: 15px 350px;
+    padding: 15px 15%;
+    color: #c7c7c7;
 }
 
 .guidenav {
@@ -21,11 +22,53 @@ main{
     border-width: 0px;
 }
 
+img{
+    width: 100%;
+}
+
 .videolist {
     padding: 10px;
 }
 
 .video{
     width: 25%;
-    color: #c7c7c7;
+}
+
+.videoinfo{
+    padding: 3px 8px;
+    margin-bottom: 10px;
+}
+
+.videoinfo h2{
+    margin: 0px;
+}
+
+.videoinfo p{
+    margin: 0px;
+    padding: 2px 0px;
+}
+
+.videoinfo a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.mainvid{
+    width: 75%;
+}
+
+.mainvid h2{
+    margin: 3px 5px; 
+}
+
+.mainvid p{
+    margin: 0px 5px;
+}
+
+.nextvid{
+    width: 25%;
+}
+
+.nextvid img{
+    margin: 5px;
 }
