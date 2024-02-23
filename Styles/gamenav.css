@@ -1,0 +1,24 @@
+.gamenav {
+    background-color: #0f1923;
+    overflow: hidden;
+    border-bottom: 3px solid rgb(32, 39, 44);
+}
+  
+.gamenav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.gamenav a:hover {
+    background-color: rgb(117, 117, 117);
+    color: black;
+}
+  
+.gamenav a.active {
+    background-color: #313131;
+    color: white;
+}
