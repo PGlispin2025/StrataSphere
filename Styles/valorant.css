@@ -138,9 +138,14 @@ img{
 }
 
 .match img{
-    width: 45%;
-    margin: 0px;
+    width: 25%;
+    margin: 0px 10%;
     padding: 0px;
+}
+
+.rank{
+    width: 60%;
+    margin: 0px 20%;
 }
 
 .match h2{
